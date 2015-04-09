@@ -1,6 +1,6 @@
 # CSSR
 + [Kristina Lisa Klinkner](kklinkner@gmail.com) and [Cosma Rohilla Shalizi](cshalizi@stat.cmu.edu)
-+ Last revised 18 April 2008
++ Last revised 9 April 2015
 
 
 ## 1. General
