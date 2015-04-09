@@ -1,6 +1,5 @@
 # CSSR
-+ Kristina Lisa Klinkner and Cosma Rohilla Shalizi
-+ kklinkner@gmail.com, cshalizi@stat.cmu.edu
++ [Kristina Lisa Klinkner](kklinkner@gmail.com) and [Cosma Rohilla Shalizi](cshalizi@stat.cmu.edu)
 + Last revised 18 April 2008
 
 
@@ -12,7 +11,7 @@ implements the algorithm proposed in the paper "Blind Construction of Optimal
 Nonlinear Recursive Predictors for Discrete Sequences", hereafter BC.  [Cosma
 Rohilla Shalizi and Kristina Lisa Shalizi, pp. 504--511 of Max Chickering and
 Joseph Halpern (eds.), _Uncertainty in Artificial Intelligence: Proceedings of
-the Twentieth Conference_](http://arxiv.org/abs/cs.LG/0406011.)
+the Twentieth Conference_](http://arxiv.org/abs/cs.LG/0406011).
 We won't describe the algorithm in any detail here (see BC for that), but the
 next two paragraphs say a little about what it produces and how it does it.
 
@@ -40,7 +39,8 @@ the estimated causal states.
 
 ## 2. Obtaining and Installing the Program
 
-The code for CSSR can be obtained [here](http://bactra.org/CSSR/).  If you'd like
+The code for CSSR can be obtained, using `git clone
+https://github.com/barak/CSSR.git`, or [here](http://bactra.org/CSSR/).  If you'd like
 to set up a new archive for it, we'd appreciate hearing about it.
 
 From any site, download the CSSR-v0.1.tar.gz file for the code.  When gunzipped
