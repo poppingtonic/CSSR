@@ -12,7 +12,7 @@ implements the algorithm proposed in the paper "Blind Construction of Optimal
 Nonlinear Recursive Predictors for Discrete Sequences", hereafter BC.  [Cosma
 Rohilla Shalizi and Kristina Lisa Shalizi, pp. 504--511 of Max Chickering and
 Joseph Halpern (eds.), _Uncertainty in Artificial Intelligence: Proceedings of
-the Twentieth Conference_, available from http://arxiv.org/abs/cs.LG/0406011.]
+the Twentieth Conference_](http://arxiv.org/abs/cs.LG/0406011.)
 We won't describe the algorithm in any detail here (see BC for that), but the
 next two paragraphs say a little about what it produces and how it does it.
 
