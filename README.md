@@ -1,5 +1,5 @@
 # CSSR
-+ [Kristina Lisa Klinkner](mailto:kklinkner@gmail.com) and [Cosma Rohilla Shalizi](mailto:cshalizi@stat.cmu.edu)
++ [Kristina Lisa Klinkner](kklinkner@gmail.com) and [Cosma Rohilla Shalizi](cshalizi@stat.cmu.edu)
 + Last revised 18 April 2008
 
 
