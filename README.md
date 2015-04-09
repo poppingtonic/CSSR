@@ -59,14 +59,29 @@ path.
         make
         cp CSSR ~/bin/
 ```
-The code has been successfully compiled with gcc 3.1 on Macintosh OS X (10.2),
-with gcc 3.2 on Linux (Red Hat 9, SUSE 9), with gcc 3.3 on Macintosh OS X
-(10.3) and with Microsoft Visual C++ on Windows 98.  On some systems,
-compilation may produce warnings about escape sequences or the use of
-deprecated headers.  These can be safely ignored.
 
+The code has been successfully compiled with gcc 3.1 on Macintosh OS X
+(10.2), with gcc 3.2 on Linux (Red Hat 9, SUSE 9), with gcc 3.3 on
+Macintosh OS X (10.3) and with Microsoft Visual C++ on Windows 98. On
+some systems, compilation may produce warnings about escape sequences
+or the use of deprecated headers. These can be safely ignored.
 
+### 2.1 Installing from this repository
 
+If you obtain the CSSR code from this repository, there are a few
+extra steps you'll need to take before you can use CSSR. The code was
+successfully compiled with gcc 4.6.3 on Ubuntu Linux (12.04 LTS).
+
+```bash
+    git clone https://github.com/barak/CSSR.git
+    cd CSSR
+    automake --add-missing
+    aclocal
+    autoconf
+    ./configure
+    make
+    cp CSSR ~/bin/
+```
 ## 3. Usage
 
 CSSR is a command-line program.
